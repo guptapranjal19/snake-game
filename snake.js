@@ -136,4 +136,4 @@ function gameloop() {
     update();
 }
 init();
-var f = setInterval(gameloop, 80);
+var f = setInterval(gameloop, 120);
